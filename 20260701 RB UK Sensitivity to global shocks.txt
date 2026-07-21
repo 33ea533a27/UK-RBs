@@ -1,0 +1,97 @@
+My notes on the UK's sensitivity to global shocks (in other words, an insight into the mind of a mad man....)  
+
+- Why is the UK so sensitive to global shocks?
+
+
+- We’ve argued previously that global shocks are more frequent, but the UK seems more sensitive than most.
+
+
+- This is partly because it is a globalised economy (FDI, assets/liabilities, high import share), so global shocks can affect our economy via a number of different routes. This is an issues given we're now in a period where global shocks are more frequent, which amplifies this vulnerability.
+
+
+- We entered the shock with relatively high inflation, so the upward pressure from the ME conflict means inflation is relatively more likely to rise to the level at which the sensitivity of inflation expectations to headline inflation is much greater (BoE analysis). This embeds relatively more persistence. This is a point for the current shock, but given we've had higher average inflation than similar economies over the past 10-20 years, this probably does hold across multiple supply shocks. Some of this section is covered in Nov25 MPR Box C and in Box B (latter covers how the relationship between inflation expectations and headline inflation is non-linear). Got to caveat this point by also noting that this effect is less pronounced when the labour market is loose (relative to when conditions are tight).
+
+
+- There’s a chance that greater number of years of higher and more volatile inflation over the past decade (relative to other countries) means that inflation expectations have become more sensitive to headline inflation than used to be the case. This is something I would need to research, and I can use something similar to the approach followed by the EZ Team a few months ago but for the UK. The logic behind doing this is that regardless of the current rate of inflation, that inflation has averaged 5% so far this decade means that inflation expectations are a) higher and, b) more sensitive to current inflation than used to be the case.
+
+      - The EZ Team look at monthly consumer and corporate inflation expectations in separate VARs against the same energy variable across two different samples (pre-pandemic and 2022 onwards). They then run a one residual shock (or standard deviation) shock to compare the impulse response functions in different periods. I don't think I need to repeat the market-based measures bit of analysis. 
+
+      - Quite a lot of this section's content is also covered in Box B of the Nov25 MPR. Chart B.2 (left panel) shows a rising domestic trend component, albeit this captures more than just inflation expectations although the authors do say it has been a factor. But repeating the EZ Team's analysis would be nice as I would be able to compare the UK vs the EZ on a like-for-like basis.
+
+      - The second leg of this analysis is to then test whether pay growth is more sensitive to inflation expectations than elsewhere (e.g. compare the inflation expectations coefficient in the UK wage Phillips curve versus the equivalent for the Euro Area. And even if the coefficient on inflation expectations for a UK wage Phillips curve is the same in the UK as in the EZ, the fact that inflation expectations themselves are more sensitive to headline inflation implies that the risks of second-round effects forming is greater. Full sample (UK = 1.01, EZ = 0.90, US = 0.50) and pre-pandemic sample (UK = 0.22, EZ = 0.55, US = 0.38)
+
+
+- If we find supportive evidence for the previous two main bullets, then this suggests there's a greater mechanism for generating second-round effects in the UK than elsewhere, which leaves us more vulnerable to supply shocks.
+
+
+- The UK has more fragile politics than it used to be and the system of government affords the executive relatively more power than in European countries (e.g. the UK has large majority on the left before swinging to a large majority on the right, whereas Europe tends to have fragile politics but via shifts in coalitions instead, which has smaller implications). So the fragile politics has bigger implications in the UK. Probably need to caveat this point by suggesting that this feature may be on the decline in the UK as we move beyond a two-party system, so coalitions look more likely moving forwards. Relatively less devolution (vs US/EZ) exacerbates the impact of greater swings in policy.
+
+- Beyond inflation (less anchored expectations, stronger passthrough to pay and implications for inflation-linked bonds), our bond yields also appear more sensitive to global shocks than elsewhere. Now some of the greater beta of bond yields to global shocks reflects the greater sensitivity of inflation. But the fragile politics also makes yields more sensitive even for shocks that don't directly impact inflation.
+
+- The sensitivity of UK bond yields to global shocks also appears higher than elsewhere because the fiscal position is so weak. Therefore, to get back on a sustainable path, the UK would need to see a period with no global shocks, as they derail inflation returning to target and our fiscal plans because our path to fiscal stability is narrower. In other words, it would be difficult to see the UK outperform over a decent time horizon unless that period exhibited much fewer global shocks than has been the case recently. 
+
+
+- Because the risk of second-round effects is greater, gilt yields rise by more, which makes the fiscal position relatively more challenging, which makes the domestic politics more fragile and increases the chances of policy errors. This then spirals.
+
+
+- Might be worth starting the RB by showing a chart depicting the repricing in financial conditions since Feb-2026 has been larger for the UK, and the downgrades in growth expectations has also been more significant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1) Small and very open economy. High import intensity, particularly for energy.
+
+2) Large financial sector, which is sensitive to US headwinds. High beta to global (US) financial developments, given we've got large twin deficits and an inflation targeting central bank. Large foreign assets and liabilities - helps to mitigate impact of domestic shocks, leaves us more exposed to global ones.
+
+3) UK does seem to have a domestic inflation issue (higher and more volatile inflation than peers). Silly indexed price system (close to 20% for UK, EZ is 12%, and US is 8%) means the impact of shocks persists for longer. Contributes to higher inflation expectations.
+
+4) Unstable domestic political environment. Fiscal fragility. 
+
+
+
+- UK activity and inflation is more vulnerable to global shocks than EZ/US, due to being a small open economy with high import intensity (energy and food) and a large international finance sector.
+
+- In this context, the move to a regime with larger and more frequent global supply shocks has caused a marked deterioration in political stability and fiscal credibility. This exacerbates the UK's exposure to global shocks.
+
+- Could chart the UK's vulnerability to shocks by showing downgrades to year-ahead GDP growth/upgrades to CPI inflation forecasts compared to other advanced economies (US/Euro area) over the past year. Or Andy's 10yr chart.
+
+
+
+https://my.oxfordeconomics.com/reportaction/19dE70D7fe8B465e893Afe/Toc
+
+V:\Teams\European Macro Team\Public\3. Publications\RBs\Ricardo Amaro
+
+
